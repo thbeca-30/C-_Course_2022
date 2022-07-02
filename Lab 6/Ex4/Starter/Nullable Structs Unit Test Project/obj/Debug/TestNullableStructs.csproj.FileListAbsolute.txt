@@ -1,0 +1,1 @@
+E:\Labfiles\Lab 6\Ex4\Starter\Nullable Structs Unit Test Project\obj\Debug\ResolveAssemblyReference.cache

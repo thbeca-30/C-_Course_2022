@@ -1,0 +1,81 @@
+C:\Users\James\Desktop\MSL C# Labs\Module10\Unit Tests for Module 10\bin\Debug\Unit Tests for Module 10.dll
+C:\Users\James\Desktop\MSL C# Labs\Module10\Unit Tests for Module 10\bin\Debug\Unit Tests for Module 10.pdb
+C:\Users\James\Desktop\MSL C# Labs\Module10\Unit Tests for Module 10\bin\Debug\DeviceController.dll
+C:\Users\James\Desktop\MSL C# Labs\Module10\Unit Tests for Module 10\bin\Debug\Exercise2.dll
+C:\Users\James\Desktop\MSL C# Labs\Module10\Unit Tests for Module 10\bin\Debug\Exercise3.dll
+C:\Users\James\Desktop\MSL C# Labs\Module10\Unit Tests for Module 10\bin\Debug\MeasuringDevice.dll
+C:\Users\James\Desktop\MSL C# Labs\Module10\Unit Tests for Module 10\bin\Debug\DeviceController.pdb
+C:\Users\James\Desktop\MSL C# Labs\Module10\Unit Tests for Module 10\bin\Debug\Exercise2.pdb
+C:\Users\James\Desktop\MSL C# Labs\Module10\Unit Tests for Module 10\bin\Debug\Exercise3.pdb
+C:\Users\James\Desktop\MSL C# Labs\Module10\Unit Tests for Module 10\bin\Debug\MeasuringDevice.pdb
+C:\Users\James\Desktop\MSL C# Labs\Module10\Unit Tests for Module 10\bin\Debug\MeasuringDevice_Accessor.dll
+C:\Users\James\Desktop\MSL C# Labs\Module10\Unit Tests for Module 10\bin\Debug\MeasuringDevice_Accessor.pdb
+C:\Users\James\Desktop\MSL C# Labs\Module10\Unit Tests for Module 10\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\James\Desktop\MSL C# Labs\Module10\Unit Tests for Module 10\obj\Debug\Unit Tests for Module 10.dll
+C:\Users\James\Desktop\MSL C# Labs\Module10\Unit Tests for Module 10\obj\Debug\Unit Tests for Module 10.pdb
+C:\Users\James\Desktop\MSL C# Labs\Module10\Ex1\Solution\Unit Tests for Module 10\bin\Debug\Unit Tests for Module 10.dll
+C:\Users\James\Desktop\MSL C# Labs\Module10\Ex1\Solution\Unit Tests for Module 10\bin\Debug\Unit Tests for Module 10.pdb
+C:\Users\James\Desktop\MSL C# Labs\Module10\Ex1\Solution\Unit Tests for Module 10\bin\Debug\DeviceController.dll
+C:\Users\James\Desktop\MSL C# Labs\Module10\Ex1\Solution\Unit Tests for Module 10\bin\Debug\MeasuringDevice.dll
+C:\Users\James\Desktop\MSL C# Labs\Module10\Ex1\Solution\Unit Tests for Module 10\bin\Debug\DeviceController.pdb
+C:\Users\James\Desktop\MSL C# Labs\Module10\Ex1\Solution\Unit Tests for Module 10\bin\Debug\MeasuringDevice.pdb
+C:\Users\James\Desktop\MSL C# Labs\Module10\Ex1\Solution\Unit Tests for Module 10\bin\Debug\MeasuringDevice_Accessor.dll
+C:\Users\James\Desktop\MSL C# Labs\Module10\Ex1\Solution\Unit Tests for Module 10\bin\Debug\MeasuringDevice_Accessor.pdb
+C:\Users\James\Desktop\MSL C# Labs\Module10\Ex1\Solution\Unit Tests for Module 10\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\James\Desktop\MSL C# Labs\Module10\Ex1\Solution\Unit Tests for Module 10\obj\Debug\Unit Tests for Module 10.dll
+C:\Users\James\Desktop\MSL C# Labs\Module10\Ex1\Solution\Unit Tests for Module 10\obj\Debug\Unit Tests for Module 10.pdb
+E:\Labfiles\Lab10\Ex1\Solution\Unit Tests for Module 10\bin\Debug\Unit Tests for Module 10.dll
+E:\Labfiles\Lab10\Ex1\Solution\Unit Tests for Module 10\bin\Debug\Unit Tests for Module 10.pdb
+E:\Labfiles\Lab10\Ex1\Solution\Unit Tests for Module 10\bin\Debug\DeviceController.dll
+E:\Labfiles\Lab10\Ex1\Solution\Unit Tests for Module 10\bin\Debug\MeasuringDevice.dll
+E:\Labfiles\Lab10\Ex1\Solution\Unit Tests for Module 10\bin\Debug\DeviceController.pdb
+E:\Labfiles\Lab10\Ex1\Solution\Unit Tests for Module 10\bin\Debug\MeasuringDevice.pdb
+E:\Labfiles\Lab10\Ex1\Solution\Unit Tests for Module 10\bin\Debug\MeasuringDevice_Accessor.dll
+E:\Labfiles\Lab10\Ex1\Solution\Unit Tests for Module 10\bin\Debug\MeasuringDevice_Accessor.pdb
+E:\Labfiles\Lab10\Ex1\Solution\Unit Tests for Module 10\obj\Debug\ResolveAssemblyReference.cache
+E:\Labfiles\Lab10\Ex1\Solution\Unit Tests for Module 10\obj\Debug\Unit Tests for Module 10.dll
+E:\Labfiles\Lab10\Ex1\Solution\Unit Tests for Module 10\obj\Debug\Unit Tests for Module 10.pdb
+E:\Labfiles\Lab 10\Ex1\Solution\Unit Tests for Module 10\bin\Debug\Unit Tests for Module 10.dll
+E:\Labfiles\Lab 10\Ex1\Solution\Unit Tests for Module 10\bin\Debug\Unit Tests for Module 10.pdb
+E:\Labfiles\Lab 10\Ex1\Solution\Unit Tests for Module 10\bin\Debug\DeviceController.dll
+E:\Labfiles\Lab 10\Ex1\Solution\Unit Tests for Module 10\bin\Debug\MeasuringDevice.dll
+E:\Labfiles\Lab 10\Ex1\Solution\Unit Tests for Module 10\bin\Debug\DeviceController.pdb
+E:\Labfiles\Lab 10\Ex1\Solution\Unit Tests for Module 10\bin\Debug\MeasuringDevice.pdb
+E:\Labfiles\Lab 10\Ex1\Solution\Unit Tests for Module 10\bin\Debug\MeasuringDevice_Accessor.dll
+E:\Labfiles\Lab 10\Ex1\Solution\Unit Tests for Module 10\bin\Debug\MeasuringDevice_Accessor.pdb
+E:\Labfiles\Lab 10\Ex1\Solution\Unit Tests for Module 10\obj\Debug\ResolveAssemblyReference.cache
+E:\Labfiles\Lab 10\Ex1\Solution\Unit Tests for Module 10\obj\Debug\Unit Tests for Module 10.dll
+E:\Labfiles\Lab 10\Ex1\Solution\Unit Tests for Module 10\obj\Debug\Unit Tests for Module 10.pdb
+E:\Labfiles\Lab 10\Lab A\Ex3\Solution\Unit Tests for Module 10\bin\Debug\Unit Tests for Module 10.dll
+E:\Labfiles\Lab 10\Lab A\Ex3\Solution\Unit Tests for Module 10\bin\Debug\Unit Tests for Module 10.pdb
+E:\Labfiles\Lab 10\Lab A\Ex3\Solution\Unit Tests for Module 10\bin\Debug\DeviceController.dll
+E:\Labfiles\Lab 10\Lab A\Ex3\Solution\Unit Tests for Module 10\bin\Debug\MeasuringDevice.dll
+E:\Labfiles\Lab 10\Lab A\Ex3\Solution\Unit Tests for Module 10\bin\Debug\DeviceController.pdb
+E:\Labfiles\Lab 10\Lab A\Ex3\Solution\Unit Tests for Module 10\bin\Debug\MeasuringDevice.pdb
+E:\Labfiles\Lab 10\Lab A\Ex3\Solution\Unit Tests for Module 10\bin\Debug\MeasuringDevice_Accessor.dll
+E:\Labfiles\Lab 10\Lab A\Ex3\Solution\Unit Tests for Module 10\bin\Debug\MeasuringDevice_Accessor.pdb
+E:\Labfiles\Lab 10\Lab A\Ex3\Solution\Unit Tests for Module 10\obj\Debug\ResolveAssemblyReference.cache
+E:\Labfiles\Lab 10\Lab A\Ex3\Solution\Unit Tests for Module 10\obj\Debug\Unit Tests for Module 10.dll
+E:\Labfiles\Lab 10\Lab A\Ex3\Solution\Unit Tests for Module 10\obj\Debug\Unit Tests for Module 10.pdb
+E:\Labfiles\Lab 10\Lab A\Ex3\Starter\Unit Tests for Module 10\bin\Debug\Unit Tests for Module 10.dll
+E:\Labfiles\Lab 10\Lab A\Ex3\Starter\Unit Tests for Module 10\bin\Debug\Unit Tests for Module 10.pdb
+E:\Labfiles\Lab 10\Lab A\Ex3\Starter\Unit Tests for Module 10\bin\Debug\DeviceController.dll
+E:\Labfiles\Lab 10\Lab A\Ex3\Starter\Unit Tests for Module 10\bin\Debug\MeasuringDevice.dll
+E:\Labfiles\Lab 10\Lab A\Ex3\Starter\Unit Tests for Module 10\bin\Debug\DeviceController.pdb
+E:\Labfiles\Lab 10\Lab A\Ex3\Starter\Unit Tests for Module 10\bin\Debug\MeasuringDevice.pdb
+E:\Labfiles\Lab 10\Lab A\Ex3\Starter\Unit Tests for Module 10\bin\Debug\MeasuringDevice_Accessor.dll
+E:\Labfiles\Lab 10\Lab A\Ex3\Starter\Unit Tests for Module 10\bin\Debug\MeasuringDevice_Accessor.pdb
+E:\Labfiles\Lab 10\Lab A\Ex3\Starter\Unit Tests for Module 10\obj\Debug\ResolveAssemblyReference.cache
+E:\Labfiles\Lab 10\Lab A\Ex3\Starter\Unit Tests for Module 10\obj\Debug\Unit Tests for Module 10.dll
+E:\Labfiles\Lab 10\Lab A\Ex3\Starter\Unit Tests for Module 10\obj\Debug\Unit Tests for Module 10.pdb
+E:\Labfiles\Lab 10\Lab A\Ex2\Solution\Unit Tests for Module 10\bin\Debug\Unit Tests for Module 10.dll
+E:\Labfiles\Lab 10\Lab A\Ex2\Solution\Unit Tests for Module 10\bin\Debug\Unit Tests for Module 10.pdb
+E:\Labfiles\Lab 10\Lab A\Ex2\Solution\Unit Tests for Module 10\bin\Debug\DeviceController.dll
+E:\Labfiles\Lab 10\Lab A\Ex2\Solution\Unit Tests for Module 10\bin\Debug\MeasuringDevice.dll
+E:\Labfiles\Lab 10\Lab A\Ex2\Solution\Unit Tests for Module 10\bin\Debug\DeviceController.pdb
+E:\Labfiles\Lab 10\Lab A\Ex2\Solution\Unit Tests for Module 10\bin\Debug\MeasuringDevice.pdb
+E:\Labfiles\Lab 10\Lab A\Ex2\Solution\Unit Tests for Module 10\bin\Debug\MeasuringDevice_Accessor.dll
+E:\Labfiles\Lab 10\Lab A\Ex2\Solution\Unit Tests for Module 10\bin\Debug\MeasuringDevice_Accessor.pdb
+E:\Labfiles\Lab 10\Lab A\Ex2\Solution\Unit Tests for Module 10\obj\Debug\ResolveAssemblyReference.cache
+E:\Labfiles\Lab 10\Lab A\Ex2\Solution\Unit Tests for Module 10\obj\Debug\Unit Tests for Module 10.dll
+E:\Labfiles\Lab 10\Lab A\Ex2\Solution\Unit Tests for Module 10\obj\Debug\Unit Tests for Module 10.pdb

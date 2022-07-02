@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="3b142d65-56ae-4f72-8055-1450a2a0f6ba" name="Student@10266A-GEN-DEV 2009-12-01 09:23:11" runUser="10266A-GEN-DEV\Student" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="6644ed84-5c4a-43e1-855b-9b4b1b5eacda">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Student_10266A-GEN-DEV 2009-12-01 09_23_11">
+      <DeploymentItem filename="E:\Labfiles\Lab 14\BinaryTree\BinaryTree\bin\Debug\BinaryTree.dll" />
+      <DeploymentItem filename="E:\Labfiles\Lab 14\Ex 1 - LINQ Query\Solution\StressDataAnalyzer\bin\Debug\StressDataAnalyzer.exe" />
+      <DeploymentItem filename="E:\Labfiles\Lab 14\StressTestResult\StressTestResult\bin\Debug\StressTestResult.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2009-12-01T09:23:11.0897891-08:00" queuing="2009-12-01T09:23:11.1024844-08:00" start="2009-12-01T09:23:11.1327578-08:00" finish="2009-12-01T09:23:13.0292422-08:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="1" executed="1" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+    <RunInfos>
+      <RunInfo computerName="10266A-GEN-DEV" outcome="Warning" timestamp="2009-12-01T09:23:11.1015078-08:00">
+        <Text>Deployment is currently disabled. The deployment item 'StressDataAnalyzer.exe' on test 'StressDataAnalyzerTest.DataAnalyzerTest.CreateQueryandFormatResultsTest' was not deployed.</Text>
+      </RunInfo>
+    </RunInfos>
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="CreateQueryandFormatResultsTest" storage="e:\labfiles\lab 14\ex 1 - linq query\solution\stresstestanalyzertest\bin\debug\strestestanalyzertest.dll" id="4a3896a7-0f16-e172-d42d-db5d5edbc649">
+      <DeploymentItems>
+        <DeploymentItem filename="StressDataAnalyzer.exe" />
+      </DeploymentItems>
+      <Execution id="cd82d3f3-403c-4fb0-88e9-855f8f02f0c7" />
+      <TestMethod codeBase="E:/Labfiles/Lab 14/Ex 1 - LINQ Query/Solution/StressTestAnalyzerTest/bin/Debug/StresTestAnalyzerTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="StressDataAnalyzerTest.DataAnalyzerTest, StresTestAnalyzerTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="CreateQueryandFormatResultsTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="4a3896a7-0f16-e172-d42d-db5d5edbc649" executionId="cd82d3f3-403c-4fb0-88e9-855f8f02f0c7" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="cd82d3f3-403c-4fb0-88e9-855f8f02f0c7" testId="4a3896a7-0f16-e172-d42d-db5d5edbc649" testName="CreateQueryandFormatResultsTest" computerName="10266A-GEN-DEV" duration="00:00:01.4630555" startTime="2009-12-01T09:23:11.1415469-08:00" endTime="2009-12-01T09:23:13.0087344-08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="cd82d3f3-403c-4fb0-88e9-855f8f02f0c7">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.AreEqual failed. Expected:&lt;41073&gt;. Actual:&lt;40641&gt;. </Message>
+          <StackTrace>   at StressDataAnalyzerTest.DataAnalyzerTest.CreateQueryandFormatResultsTest() in E:\Labfiles\Lab 14\Ex 1 - LINQ Query\Solution\StressTestAnalyzerTest\DataAnalyzerTest.cs:line 96
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

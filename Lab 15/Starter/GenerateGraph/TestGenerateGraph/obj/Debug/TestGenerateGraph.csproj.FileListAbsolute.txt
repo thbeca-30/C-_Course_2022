@@ -1,0 +1,10 @@
+E:\Labfiles\Lab 15\Solution\GenerateGraph\TestGenerateGraph\bin\Debug\TestGenerateGraph.dll
+E:\Labfiles\Lab 15\Solution\GenerateGraph\TestGenerateGraph\bin\Debug\TestGenerateGraph.pdb
+E:\Labfiles\Lab 15\Solution\GenerateGraph\TestGenerateGraph\bin\Debug\GenerateGraph.exe
+E:\Labfiles\Lab 15\Solution\GenerateGraph\TestGenerateGraph\bin\Debug\GenerateGraph.pdb
+E:\Labfiles\Lab 15\Solution\GenerateGraph\TestGenerateGraph\bin\Debug\GenerateGraph.xml
+E:\Labfiles\Lab 15\Solution\GenerateGraph\TestGenerateGraph\bin\Debug\GenerateGraph_Accessor.dll
+E:\Labfiles\Lab 15\Solution\GenerateGraph\TestGenerateGraph\bin\Debug\GenerateGraph_Accessor.pdb
+E:\Labfiles\Lab 15\Solution\GenerateGraph\TestGenerateGraph\obj\Debug\ResolveAssemblyReference.cache
+E:\Labfiles\Lab 15\Solution\GenerateGraph\TestGenerateGraph\obj\Debug\TestGenerateGraph.dll
+E:\Labfiles\Lab 15\Solution\GenerateGraph\TestGenerateGraph\obj\Debug\TestGenerateGraph.pdb

@@ -1,0 +1,39 @@
+E:\Labfiles\Lab 5\Ex 2 - XML Aware Editor\Solution\FileEditorXML\bin\Debug\FileEditorXML.exe
+E:\Labfiles\Lab 5\Ex 2 - XML Aware Editor\Solution\FileEditorXML\bin\Debug\FileEditorXML.pdb
+E:\Labfiles\Lab 5\Ex 2 - XML Aware Editor\Solution\FileEditorXML\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Labfiles\Lab 5\Ex 2 - XML Aware Editor\Solution\FileEditorXML\obj\x86\Debug\MainWindow.baml
+E:\Labfiles\Lab 5\Ex 2 - XML Aware Editor\Solution\FileEditorXML\obj\x86\Debug\MainWindow.g.cs
+E:\Labfiles\Lab 5\Ex 2 - XML Aware Editor\Solution\FileEditorXML\obj\x86\Debug\App.g.cs
+E:\Labfiles\Lab 5\Ex 2 - XML Aware Editor\Solution\FileEditorXML\obj\x86\Debug\FileEditorXML_MarkupCompile.cache
+E:\Labfiles\Lab 5\Ex 2 - XML Aware Editor\Solution\FileEditorXML\obj\x86\Debug\FileEditorXML.g.resources
+E:\Labfiles\Lab 5\Ex 2 - XML Aware Editor\Solution\FileEditorXML\obj\x86\Debug\FileEditorXML.Properties.Resources.resources
+E:\Labfiles\Lab 5\Ex 2 - XML Aware Editor\Solution\FileEditorXML\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Labfiles\Lab 5\Ex 2 - XML Aware Editor\Solution\FileEditorXML\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Labfiles\Lab 5\Ex 2 - XML Aware Editor\Solution\FileEditorXML\obj\x86\Debug\FileEditorXML.exe
+E:\Labfiles\Lab 5\Ex 2 - XML Aware Editor\Solution\FileEditorXML\obj\x86\Debug\FileEditorXML.pdb
+E:\Labfiles\Lab 5\Ex 2\Solution\FileEditorXML\obj\x86\Debug\FileEditorXML.exe
+E:\Labfiles\Lab 5\Ex 2\Solution\FileEditorXML\obj\x86\Debug\FileEditorXML.pdb
+E:\Labfiles\Lab 5\Ex 2\Solution\FileEditorXML\bin\Debug\FileEditorXML.exe
+E:\Labfiles\Lab 5\Ex 2\Solution\FileEditorXML\bin\Debug\FileEditorXML.pdb
+E:\Labfiles\Lab 5\Ex 2\Solution\FileEditorXML\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Labfiles\Lab 5\Ex 2\Solution\FileEditorXML\obj\x86\Debug\MainWindow.baml
+E:\Labfiles\Lab 5\Ex 2\Solution\FileEditorXML\obj\x86\Debug\MainWindow.g.cs
+E:\Labfiles\Lab 5\Ex 2\Solution\FileEditorXML\obj\x86\Debug\App.g.cs
+E:\Labfiles\Lab 5\Ex 2\Solution\FileEditorXML\obj\x86\Debug\FileEditorXML_MarkupCompile.cache
+E:\Labfiles\Lab 5\Ex 2\Solution\FileEditorXML\obj\x86\Debug\FileEditorXML.g.resources
+E:\Labfiles\Lab 5\Ex 2\Solution\FileEditorXML\obj\x86\Debug\FileEditorXML.Properties.Resources.resources
+E:\Labfiles\Lab 5\Ex 2\Solution\FileEditorXML\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Labfiles\Lab 5\Ex 2\Solution\FileEditorXML\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Labfiles\Lab 5\Ex2\Solution\FileEditorXML\obj\x86\Debug\FileEditorXML.exe
+E:\Labfiles\Lab 5\Ex2\Solution\FileEditorXML\obj\x86\Debug\FileEditorXML.pdb
+E:\Labfiles\Lab 5\Ex2\Solution\FileEditorXML\bin\Debug\FileEditorXML.exe
+E:\Labfiles\Lab 5\Ex2\Solution\FileEditorXML\bin\Debug\FileEditorXML.pdb
+E:\Labfiles\Lab 5\Ex2\Solution\FileEditorXML\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Labfiles\Lab 5\Ex2\Solution\FileEditorXML\obj\x86\Debug\MainWindow.baml
+E:\Labfiles\Lab 5\Ex2\Solution\FileEditorXML\obj\x86\Debug\MainWindow.g.cs
+E:\Labfiles\Lab 5\Ex2\Solution\FileEditorXML\obj\x86\Debug\App.g.cs
+E:\Labfiles\Lab 5\Ex2\Solution\FileEditorXML\obj\x86\Debug\FileEditorXML_MarkupCompile.cache
+E:\Labfiles\Lab 5\Ex2\Solution\FileEditorXML\obj\x86\Debug\FileEditorXML.g.resources
+E:\Labfiles\Lab 5\Ex2\Solution\FileEditorXML\obj\x86\Debug\FileEditorXML.Properties.Resources.resources
+E:\Labfiles\Lab 5\Ex2\Solution\FileEditorXML\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Labfiles\Lab 5\Ex2\Solution\FileEditorXML\obj\x86\Debug\GenerateResource.write.1.tlog

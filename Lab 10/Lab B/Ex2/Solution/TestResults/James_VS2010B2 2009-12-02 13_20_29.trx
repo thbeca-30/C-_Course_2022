@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="7074b3c5-b0de-471c-bc8e-94c77cf1c3b8" name="James@VS2010B2 2009-12-02 13:20:29" runUser="VS2010B2\James" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="25e65884-6616-41a6-b84d-44e838e78caf">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment runDeploymentRoot="James_VS2010B2 2009-12-02 13_20_29">
+      <DeploymentItem filename="C:\Users\James\Desktop\MSL C# Labs\Module10\Ex2\Solution\Exercise2\bin\Debug\Exercise2.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2009-12-02T13:20:29.4766256+00:00" queuing="2009-12-02T13:21:04.5314432+00:00" start="2009-12-02T13:21:05.9459552+00:00" finish="2009-12-02T13:21:16.3039952+00:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="2" executed="2" passed="1" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="ItemTest" storage="c:\users\james\desktop\msl c# labs\module10\ex2\solution\unit tests for module 10\bin\debug\unit tests for module 10.dll" id="2e28c6b0-70a6-f647-01ba-03b4e96a5206">
+      <Execution id="3ecc808a-2199-40ab-98a1-cf4576d4d817" />
+      <TestMethod codeBase="C:/Users/James/Desktop/MSL C# Labs/Module10/Ex2/Solution/Unit Tests for Module 10/bin/Debug/Unit Tests for Module 10.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Unit_Tests_for_Module_10.ControlRegisterTest, Unit Tests for Module 10, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ItemTest" />
+    </UnitTest>
+    <UnitTest name="RegisterDataTest" storage="c:\users\james\desktop\msl c# labs\module10\ex2\solution\unit tests for module 10\bin\debug\unit tests for module 10.dll" id="72d199b0-6889-01c0-3eaf-3d1ec7c7f253">
+      <Execution id="c987ceb2-31e9-4ebb-8b70-d29d62baba22" />
+      <TestMethod codeBase="C:/Users/James/Desktop/MSL C# Labs/Module10/Ex2/Solution/Unit Tests for Module 10/bin/Debug/Unit Tests for Module 10.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Unit_Tests_for_Module_10.ControlRegisterTest, Unit Tests for Module 10, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="RegisterDataTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="2e28c6b0-70a6-f647-01ba-03b4e96a5206" executionId="3ecc808a-2199-40ab-98a1-cf4576d4d817" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="72d199b0-6889-01c0-3eaf-3d1ec7c7f253" executionId="c987ceb2-31e9-4ebb-8b70-d29d62baba22" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="3ecc808a-2199-40ab-98a1-cf4576d4d817" testId="2e28c6b0-70a6-f647-01ba-03b4e96a5206" testName="ItemTest" computerName="VS2010B2" duration="00:00:00.3815244" startTime="2009-12-02T13:21:06.3873632+00:00" endTime="2009-12-02T13:21:15.1121936+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="3ecc808a-2199-40ab-98a1-cf4576d4d817">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.AreEqual failed. Expected:&lt;1&gt;. Actual:&lt;2&gt;. </Message>
+          <StackTrace>   at Unit_Tests_for_Module_10.ControlRegisterTest.ItemTest() in C:\Users\James\Desktop\MSL C# Labs\Module10\Ex2\Solution\Unit Tests for Module 10\ControlRegisterTest.cs:line 95
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="c987ceb2-31e9-4ebb-8b70-d29d62baba22" testId="72d199b0-6889-01c0-3eaf-3d1ec7c7f253" testName="RegisterDataTest" computerName="VS2010B2" duration="00:00:00.0092676" startTime="2009-12-02T13:21:15.3258752+00:00" endTime="2009-12-02T13:21:15.5044448+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="c987ceb2-31e9-4ebb-8b70-d29d62baba22">
+    </UnitTestResult>
+  </Results>
+</TestRun>

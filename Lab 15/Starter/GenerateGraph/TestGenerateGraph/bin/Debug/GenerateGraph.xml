@@ -1,0 +1,197 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>GenerateGraph</name>
+    </assembly>
+    <members>
+        <member name="T:GenerateGraph.GraphWindow">
+            <summary>
+            WPF application to read stress analysis data from CSV files
+            and generate an Excel chart
+            </summary>
+            <summary>
+            GraphWindow
+            </summary>
+        </member>
+        <member name="F:GenerateGraph.GraphWindow.graphData">
+            <summary>
+            graphData contains the stress analysis data
+            <para>
+            This variable is a List of StressData objects. Each StressData object holds
+            the stress analysis results for single temperature
+            </para>
+            </summary>
+        </member>
+        <member name="M:GenerateGraph.GraphWindow.#ctor">
+            <summary>
+            Initialize the WPF window and the graphData variable
+            </summary>
+        </member>
+        <member name="M:GenerateGraph.GraphWindow.populateFromFile(GenerateGraph.StressData,System.String)">
+            <summary>
+            Read a CSV data containing stress analysis data and populate a StressData object with this information
+            <para>
+            The data is held in the following format:
+            <code>
+            298
+            100,15
+            200,35
+            300,55
+            ...
+            1500,550
+            </code>
+            </para>
+            <para>
+            The first line specifies the temperature used for the test (in Kelvin).
+            </para>
+            <para>
+            Subsequent lines contain pairs of values: the applied stress (in kN), and the deflection resulting from this stress (in mm).
+            </para>
+            <para>
+            The applied stress is specified in 100 kN increments, from 100kN to 1500 kN. 
+            The deflection data for a specified stress may be absent (usually if the applied stress caused a complete failure).
+            </para>
+            </summary>
+            <param name="stressData">
+            The StressData object to populate. This object must have been created prior to calling the method.
+            </param>
+            <param name="fileName">
+            The name of the file containing the CSV data
+            </param>
+            <returns>
+            True if the StressData object was populated successfully, false otherwise
+            </returns>
+        </member>
+        <member name="M:GenerateGraph.GraphWindow.getData_Click(System.Object,System.Windows.RoutedEventArgs)">
+            <summary>
+            Event-handling method for the Click event of the getData button on the WPF form.
+            <para>
+            This method gets the name of a file containing CSV data, creates a StressData object, 
+            and then calls the <c>populateFromFile</c> method to read the data and populate it.
+            </para>
+            <seealso cref="M:GenerateGraph.GraphWindow.populateFromFile(GenerateGraph.StressData,System.String)"/>
+            <seealso cref="M:GenerateGraph.GraphWindow.displayData(GenerateGraph.StressData)"/>
+            </summary>
+        </member>
+        <member name="M:GenerateGraph.GraphWindow.displayData(GenerateGraph.StressData)">
+            <summary>
+            Display the data in a StressData object by adding it to a TreeView control on the WPF form.
+            </summary>
+            <param name="stressData">
+            The StressData object containing the data to add to the TreeView control
+            </param>
+        </member>
+        <member name="M:GenerateGraph.GraphWindow.generateGraph_Click(System.Object,System.Windows.RoutedEventArgs)">
+            <summary>
+            Event-handling method for the Click event of the generateGraph button on the WPF form.
+            <para>
+            This method copies the data in the list of StressData objects in the graphData variable
+            to a an Excel spreadsheet, and then generates an Excel chart.
+            </para>
+            The spreadsheet and chart is saved in a file with the name specified by the user.
+            <seealso cref="M:GenerateGraph.GraphWindow.transferDataToExcelSheet(Microsoft.Office.Interop.Excel.Worksheet,Microsoft.Office.Interop.Excel.Range@,System.Collections.Generic.List{GenerateGraph.StressData})"/>
+            </summary>
+        </member>
+        <member name="M:GenerateGraph.GraphWindow.generateExcelChart(System.String,Microsoft.Office.Interop.Excel.Workbook,Microsoft.Office.Interop.Excel.Range)">
+            <summary>
+            Generate a chart from the data in an Excel worksheet, add it to the workbook, and save it.
+            </summary>
+            <param name="fileName">
+            The name of the file to save the Excel workbook.
+            </param>
+            <param name="excelWB">
+            The Excel workbook to add the chart to.
+            </param>
+            <param name="dataRange">
+            The range specifying the data to use for the chart.
+            </param>
+        </member>
+        <member name="M:GenerateGraph.GraphWindow.transferDataToExcelSheet(Microsoft.Office.Interop.Excel.Worksheet,Microsoft.Office.Interop.Excel.Range@,System.Collections.Generic.List{GenerateGraph.StressData})">
+            <summary>
+            Copy the data from the graphData variable to an Excel worksheet.
+            </summary>
+            <param name="excelWS">
+            The Excel worksheet to hold the data.
+            </param>
+            <param name="dataRange">
+            The range in the Excel worksheet that holds the data. This is an <c>out</c> parameter.
+            </param>
+            <param name="excelData">
+            The data to copy to the worksheet
+            </param>
+            <returns>
+            True if the data is copied sucessfully, false otherwise.
+            </returns>
+        </member>
+        <member name="M:GenerateGraph.GraphWindow.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:GenerateGraph.StressData">
+            <summary>
+            Class that holds a list of stress analysis results for a given temperature
+            </summary>
+        </member>
+        <member name="M:GenerateGraph.StressData.ToString">
+            <summary>
+            Public method that renders the data in a StressData object as a string.
+            </summary>
+            <returns>
+            A string representation of the data in the StressData object
+            </returns>
+        </member>
+        <member name="P:GenerateGraph.StressData.Temperature">
+            <summary>
+            The temperature at which the stress test results were generated. 
+            <para>
+            This value is specified in Kelvin (K).
+            </para>
+            </summary>
+        </member>
+        <member name="P:GenerateGraph.StressData.Data">
+            <summary>
+            A list of applied stress and deflection pairs recorded by the test.
+            <para>
+            The applied stress values are used as the dictionary keys, specified in kilo-Newtons (kN).
+            The deflection data are used as the dictionary values, specified in millimeters (mm).
+            Given an applied stress value, the deflection for that stress can be retrieved.
+            </para>
+            </summary>
+        </member>
+        <member name="T:GenerateGraph.App">
+            <summary>
+            Interaction logic for App.xaml
+            </summary>
+            <summary>
+            App
+            </summary>
+        </member>
+        <member name="M:GenerateGraph.App.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="M:GenerateGraph.App.Main">
+            <summary>
+            Application Entry Point.
+            </summary>
+        </member>
+        <member name="T:GenerateGraph.Properties.Resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:GenerateGraph.Properties.Resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:GenerateGraph.Properties.Resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+    </members>
+</doc>

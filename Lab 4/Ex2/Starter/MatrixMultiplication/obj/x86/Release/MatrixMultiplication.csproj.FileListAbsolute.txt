@@ -1,0 +1,11 @@
+E:\Labfiles\Lab 4\Ex2\Starter\MatrixMultiplication\bin\Release\MatrixMultiplication.exe
+E:\Labfiles\Lab 4\Ex2\Starter\MatrixMultiplication\bin\Release\MatrixMultiplication.pdb
+E:\Labfiles\Lab 4\Ex2\Starter\MatrixMultiplication\obj\x86\Release\MainWindow.baml
+E:\Labfiles\Lab 4\Ex2\Starter\MatrixMultiplication\obj\x86\Release\MainWindow.g.cs
+E:\Labfiles\Lab 4\Ex2\Starter\MatrixMultiplication\obj\x86\Release\App.g.cs
+E:\Labfiles\Lab 4\Ex2\Starter\MatrixMultiplication\obj\x86\Release\MatrixMultiplication_MarkupCompile.cache
+E:\Labfiles\Lab 4\Ex2\Starter\MatrixMultiplication\obj\x86\Release\MatrixMultiplication.g.resources
+E:\Labfiles\Lab 4\Ex2\Starter\MatrixMultiplication\obj\x86\Release\MatrixMultiplication.Properties.Resources.resources
+E:\Labfiles\Lab 4\Ex2\Starter\MatrixMultiplication\obj\x86\Release\MatrixMultiplication.csproj.GenerateResource.Cache
+E:\Labfiles\Lab 4\Ex2\Starter\MatrixMultiplication\obj\x86\Release\MatrixMultiplication.exe
+E:\Labfiles\Lab 4\Ex2\Starter\MatrixMultiplication\obj\x86\Release\MatrixMultiplication.pdb

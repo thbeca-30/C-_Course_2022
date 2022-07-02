@@ -1,0 +1,48 @@
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module1\WpfApplication\bin\Debug\DataFile.txt
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module1\WpfApplication\bin\Debug\comments.XML
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module1\WpfApplication\bin\Debug\WpfApplication.exe
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module1\WpfApplication\bin\Debug\WpfApplication.pdb
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module1\WpfApplication\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module1\WpfApplication\obj\x86\Debug\MainWindow.baml
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module1\WpfApplication\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module1\WpfApplication\obj\x86\Debug\App.g.cs
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module1\WpfApplication\obj\x86\Debug\WpfApplication_Content.g.cs
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module1\WpfApplication\obj\x86\Debug\WpfApplication_MarkupCompile.cache
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module1\WpfApplication\obj\x86\Debug\WpfApplication.g.resources
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module1\WpfApplication\obj\x86\Debug\WpfApplication.Properties.Resources.resources
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module1\WpfApplication\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module1\WpfApplication\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module1\WpfApplication\obj\x86\Debug\WpfApplication.exe
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module1\WpfApplication\obj\x86\Debug\WpfApplication.pdb
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 1\Solution\WPFApp\WpfApplication\bin\Debug\comments.XML
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 1\Solution\WPFApp\WpfApplication\obj\x86\Debug\WpfApplication.exe
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 1\Solution\WPFApp\WpfApplication\obj\x86\Debug\WpfApplication.pdb
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 1\Solution\WPFApp\WpfApplication\bin\Debug\DataFile.txt
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 1\Solution\WPFApp\WpfApplication\bin\Debug\WpfApplication.exe
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 1\Solution\WPFApp\WpfApplication\bin\Debug\WpfApplication.pdb
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 1\Solution\WPFApp\WpfApplication\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 1\Solution\WPFApp\WpfApplication\obj\x86\Debug\MainWindow.baml
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 1\Solution\WPFApp\WpfApplication\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 1\Solution\WPFApp\WpfApplication\obj\x86\Debug\App.g.cs
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 1\Solution\WPFApp\WpfApplication\obj\x86\Debug\WpfApplication_Content.g.cs
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 1\Solution\WPFApp\WpfApplication\obj\x86\Debug\WpfApplication_MarkupCompile.cache
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 1\Solution\WPFApp\WpfApplication\obj\x86\Debug\WpfApplication.g.resources
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 1\Solution\WPFApp\WpfApplication\obj\x86\Debug\WpfApplication.Properties.Resources.resources
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 1\Solution\WPFApp\WpfApplication\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 1\Solution\WPFApp\WpfApplication\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Labfiles\Lab 1\Ex4\Solution\WpfApplication\bin\Debug\comments.XML
+E:\Labfiles\Lab 1\Ex4\Solution\WpfApplication\obj\x86\Debug\WpfApplication.exe
+E:\Labfiles\Lab 1\Ex4\Solution\WpfApplication\obj\x86\Debug\WpfApplication.pdb
+E:\Labfiles\Lab 1\Ex4\Solution\WpfApplication\bin\Debug\DataFile.txt
+E:\Labfiles\Lab 1\Ex4\Solution\WpfApplication\bin\Debug\WpfApplication.exe
+E:\Labfiles\Lab 1\Ex4\Solution\WpfApplication\bin\Debug\WpfApplication.pdb
+E:\Labfiles\Lab 1\Ex4\Solution\WpfApplication\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Labfiles\Lab 1\Ex4\Solution\WpfApplication\obj\x86\Debug\MainWindow.baml
+E:\Labfiles\Lab 1\Ex4\Solution\WpfApplication\obj\x86\Debug\MainWindow.g.cs
+E:\Labfiles\Lab 1\Ex4\Solution\WpfApplication\obj\x86\Debug\App.g.cs
+E:\Labfiles\Lab 1\Ex4\Solution\WpfApplication\obj\x86\Debug\WpfApplication_Content.g.cs
+E:\Labfiles\Lab 1\Ex4\Solution\WpfApplication\obj\x86\Debug\WpfApplication_MarkupCompile.cache
+E:\Labfiles\Lab 1\Ex4\Solution\WpfApplication\obj\x86\Debug\WpfApplication.g.resources
+E:\Labfiles\Lab 1\Ex4\Solution\WpfApplication\obj\x86\Debug\WpfApplication.Properties.Resources.resources
+E:\Labfiles\Lab 1\Ex4\Solution\WpfApplication\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Labfiles\Lab 1\Ex4\Solution\WpfApplication\obj\x86\Debug\GenerateResource.write.1.tlog

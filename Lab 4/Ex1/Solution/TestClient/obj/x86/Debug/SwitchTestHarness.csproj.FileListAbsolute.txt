@@ -1,0 +1,30 @@
+E:\Labfiles\Lab 4\Ex 1 - Failsafe\Solution\TestClient\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Labfiles\Lab 4\Ex 1 - Failsafe\Solution\TestClient\obj\x86\Debug\MainWindow.baml
+E:\Labfiles\Lab 4\Ex 1 - Failsafe\Solution\TestClient\obj\x86\Debug\MainWindow.g.cs
+E:\Labfiles\Lab 4\Ex 1 - Failsafe\Solution\TestClient\obj\x86\Debug\App.g.cs
+E:\Labfiles\Lab 4\Ex 1 - Failsafe\Solution\TestClient\obj\x86\Debug\TestClient_MarkupCompile.cache
+E:\Labfiles\Lab 4\Ex 1 - Failsafe\Solution\TestClient\obj\x86\Debug\TestClient.g.resources
+E:\Labfiles\Lab 4\Ex 1 - Failsafe\Solution\TestClient\obj\x86\Debug\TestClient.Properties.Resources.resources
+E:\Labfiles\Lab 4\Ex 1 - Failsafe\Solution\TestClient\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Labfiles\Lab 4\Ex 1 - Failsafe\Solution\TestClient\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Labfiles\Lab 4\Ex 1 - Failsafe\Solution\TestClient\bin\Debug\TestClient.exe
+E:\Labfiles\Lab 4\Ex 1 - Failsafe\Solution\TestClient\bin\Debug\TestClient.pdb
+E:\Labfiles\Lab 4\Ex 1 - Failsafe\Solution\TestClient\bin\Debug\SwitchDevice.dll
+E:\Labfiles\Lab 4\Ex 1 - Failsafe\Solution\TestClient\bin\Debug\SwitchDevice.pdb
+E:\Labfiles\Lab 4\Ex 1 - Failsafe\Solution\TestClient\obj\x86\Debug\TestClient.exe
+E:\Labfiles\Lab 4\Ex 1 - Failsafe\Solution\TestClient\obj\x86\Debug\TestClient.pdb
+E:\Labfiles\Lab 4\Ex 1\Solution\TestClient\bin\Debug\TestClient.exe
+E:\Labfiles\Lab 4\Ex 1\Solution\TestClient\bin\Debug\TestClient.pdb
+E:\Labfiles\Lab 4\Ex 1\Solution\TestClient\bin\Debug\SwitchDevice.dll
+E:\Labfiles\Lab 4\Ex 1\Solution\TestClient\bin\Debug\SwitchDevice.pdb
+E:\Labfiles\Lab 4\Ex 1\Solution\TestClient\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Labfiles\Lab 4\Ex 1\Solution\TestClient\obj\x86\Debug\MainWindow.baml
+E:\Labfiles\Lab 4\Ex 1\Solution\TestClient\obj\x86\Debug\MainWindow.g.cs
+E:\Labfiles\Lab 4\Ex 1\Solution\TestClient\obj\x86\Debug\App.g.cs
+E:\Labfiles\Lab 4\Ex 1\Solution\TestClient\obj\x86\Debug\TestClient_MarkupCompile.cache
+E:\Labfiles\Lab 4\Ex 1\Solution\TestClient\obj\x86\Debug\TestClient.g.resources
+E:\Labfiles\Lab 4\Ex 1\Solution\TestClient\obj\x86\Debug\TestClient.Properties.Resources.resources
+E:\Labfiles\Lab 4\Ex 1\Solution\TestClient\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Labfiles\Lab 4\Ex 1\Solution\TestClient\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Labfiles\Lab 4\Ex 1\Solution\TestClient\obj\x86\Debug\TestClient.exe
+E:\Labfiles\Lab 4\Ex 1\Solution\TestClient\obj\x86\Debug\TestClient.pdb

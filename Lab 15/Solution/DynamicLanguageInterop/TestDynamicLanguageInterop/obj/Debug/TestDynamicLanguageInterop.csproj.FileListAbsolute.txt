@@ -1,0 +1,9 @@
+E:\Labfiles\Lab 15\Solution\DynamicLanguageInterop\TestDynamicLanguageInterop\bin\Debug\TestDynamicLanguageInterop.dll
+E:\Labfiles\Lab 15\Solution\DynamicLanguageInterop\TestDynamicLanguageInterop\bin\Debug\TestDynamicLanguageInterop.pdb
+E:\Labfiles\Lab 15\Solution\DynamicLanguageInterop\TestDynamicLanguageInterop\bin\Debug\DynamicLanguageInterop.exe
+E:\Labfiles\Lab 15\Solution\DynamicLanguageInterop\TestDynamicLanguageInterop\bin\Debug\DynamicLanguageInterop.pdb
+E:\Labfiles\Lab 15\Solution\DynamicLanguageInterop\TestDynamicLanguageInterop\bin\Debug\DynamicLanguageInterop_Accessor.pdb
+E:\Labfiles\Lab 15\Solution\DynamicLanguageInterop\TestDynamicLanguageInterop\obj\Debug\ResolveAssemblyReference.cache
+E:\Labfiles\Lab 15\Solution\DynamicLanguageInterop\TestDynamicLanguageInterop\obj\Debug\TestDynamicLanguageInterop.dll
+E:\Labfiles\Lab 15\Solution\DynamicLanguageInterop\TestDynamicLanguageInterop\obj\Debug\TestDynamicLanguageInterop.pdb
+E:\Labfiles\Lab 15\Solution\DynamicLanguageInterop\TestDynamicLanguageInterop\bin\Debug\DynamicLanguageInterop_Accessor.exe

@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="baa69b83-0b7f-49c8-b225-0fe0124e7aa0" name="Student@10266A-GEN-DEV 2009-12-01 09:27:12" runUser="10266A-GEN-DEV\Student" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="6644ed84-5c4a-43e1-855b-9b4b1b5eacda">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Student_10266A-GEN-DEV 2009-12-01 09_27_12">
+      <DeploymentItem filename="E:\Labfiles\Lab 14\BinaryTree\BinaryTree\bin\Debug\BinaryTree.dll" />
+      <DeploymentItem filename="E:\Labfiles\Lab 14\Ex 1 - LINQ Query\Solution\StressDataAnalyzer\bin\Debug\StressDataAnalyzer.exe" />
+      <DeploymentItem filename="E:\Labfiles\Lab 14\StressTestResult\StressTestResult\bin\Debug\StressTestResult.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2009-12-01T09:27:12.2528750-08:00" queuing="2009-12-01T09:27:12.2655703-08:00" start="2009-12-01T09:27:12.2987734-08:00" finish="2009-12-01T09:27:16.4042422-08:00" />
+  <ResultSummary outcome="Warning">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+    <RunInfos>
+      <RunInfo computerName="10266A-GEN-DEV" outcome="Warning" timestamp="2009-12-01T09:27:12.2655703-08:00">
+        <Text>Deployment is currently disabled. The deployment item 'StressDataAnalyzer.exe' on test 'StressDataAnalyzerTest.DataAnalyzerTest.CreateQueryandFormatResultsTest' was not deployed.</Text>
+      </RunInfo>
+    </RunInfos>
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="CreateQueryandFormatResultsTest" storage="e:\labfiles\lab 14\ex 1 - linq query\solution\stresstestanalyzertest\bin\debug\strestestanalyzertest.dll" id="4a3896a7-0f16-e172-d42d-db5d5edbc649">
+      <DeploymentItems>
+        <DeploymentItem filename="StressDataAnalyzer.exe" />
+      </DeploymentItems>
+      <Execution id="7b5a3621-439b-4af9-9929-56f391a9097b" />
+      <TestMethod codeBase="E:/Labfiles/Lab 14/Ex 1 - LINQ Query/Solution/StressTestAnalyzerTest/bin/Debug/StresTestAnalyzerTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="StressDataAnalyzerTest.DataAnalyzerTest, StresTestAnalyzerTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="CreateQueryandFormatResultsTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="4a3896a7-0f16-e172-d42d-db5d5edbc649" executionId="7b5a3621-439b-4af9-9929-56f391a9097b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="7b5a3621-439b-4af9-9929-56f391a9097b" testId="4a3896a7-0f16-e172-d42d-db5d5edbc649" testName="CreateQueryandFormatResultsTest" computerName="10266A-GEN-DEV" duration="00:00:03.6670599" startTime="2009-12-01T09:27:12.3017031-08:00" endTime="2009-12-01T09:27:16.3847109-08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="7b5a3621-439b-4af9-9929-56f391a9097b">
+    </UnitTestResult>
+  </Results>
+</TestRun>

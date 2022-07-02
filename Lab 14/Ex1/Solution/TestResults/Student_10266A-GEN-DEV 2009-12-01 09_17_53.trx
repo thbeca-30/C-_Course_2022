@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="5d8db8f8-b3c5-4e10-8390-23d369ff9de6" name="Student@10266A-GEN-DEV 2009-12-01 09:17:53" runUser="10266A-GEN-DEV\Student" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="6644ed84-5c4a-43e1-855b-9b4b1b5eacda">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Student_10266A-GEN-DEV 2009-12-01 09_17_53">
+      <DeploymentItem filename="E:\Labfiles\Lab 14\BinaryTree\BinaryTree\bin\Debug\BinaryTree.dll" />
+      <DeploymentItem filename="E:\Labfiles\Lab 14\Ex 1 - LINQ Query\Solution\StressDataAnalyzer\bin\Debug\StressDataAnalyzer.exe" />
+      <DeploymentItem filename="E:\Labfiles\Lab 14\StressTestResult\StressTestResult\bin\Debug\StressTestResult.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2009-12-01T09:17:53.6991641-08:00" queuing="2009-12-01T09:17:54.2548281-08:00" start="2009-12-01T09:17:54.3593203-08:00" finish="2009-12-01T09:17:58.0145938-08:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="1" executed="1" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+    <RunInfos>
+      <RunInfo computerName="10266A-GEN-DEV" outcome="Warning" timestamp="2009-12-01T09:17:53.9286563-08:00">
+        <Text>Deployment is currently disabled. The deployment item 'StressDataAnalyzer.exe' on test 'StressDataAnalyzerTest.DataAnalyzerTest.CreateQueryandFormatResultsTest' was not deployed.</Text>
+      </RunInfo>
+    </RunInfos>
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="CreateQueryandFormatResultsTest" storage="e:\labfiles\lab 14\ex 1 - linq query\solution\stresstestanalyzertest\bin\debug\strestestanalyzertest.dll" id="4a3896a7-0f16-e172-d42d-db5d5edbc649">
+      <DeploymentItems>
+        <DeploymentItem filename="StressDataAnalyzer.exe" />
+      </DeploymentItems>
+      <Execution id="7b2ddaad-30bd-4954-9c9f-0f6158f82e24" />
+      <TestMethod codeBase="E:/Labfiles/Lab 14/Ex 1 - LINQ Query/Solution/StressTestAnalyzerTest/bin/Debug/StresTestAnalyzerTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="StressDataAnalyzerTest.DataAnalyzerTest, StresTestAnalyzerTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="CreateQueryandFormatResultsTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="4a3896a7-0f16-e172-d42d-db5d5edbc649" executionId="7b2ddaad-30bd-4954-9c9f-0f6158f82e24" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="7b2ddaad-30bd-4954-9c9f-0f6158f82e24" testId="4a3896a7-0f16-e172-d42d-db5d5edbc649" testName="CreateQueryandFormatResultsTest" computerName="10266A-GEN-DEV" duration="00:00:03.1097164" startTime="2009-12-01T09:17:54.3905703-08:00" endTime="2009-12-01T09:17:57.9472109-08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="7b2ddaad-30bd-4954-9c9f-0f6158f82e24">
+      <Output>
+        <ErrorInfo>
+          <Message>Test method StressDataAnalyzerTest.DataAnalyzerTest.CreateQueryandFormatResultsTest threw exception: 
+System.ArgumentNullException: Value cannot be null.
+Parameter name: source</Message>
+          <StackTrace>    at System.Linq.Enumerable.Where[TSource](IEnumerable`1 source, Func`2 predicate)
+   at StressDataAnalyzer.DataAnalyzer.CreateQuery(DateTime dateStart, DateTime dateEnd, Int16 temperatureStart, Int16 temperatureEnd, Int16 appliedStressStart, Int16 appliedStressEnd, Int16 deflectionStart, Int16 deflectionEnd) in E:\Labfiles\Lab 14\Ex 1 - LINQ Query\Solution\StressDataAnalyzer\DataAnalyzer.xaml.cs:line 246
+   at StressDataAnalyzer.DataAnalyzer_Accessor.CreateQuery(DateTime dateStart, DateTime dateEnd, Int16 temperatureStart, Int16 temperatureEnd, Int16 appliedStressStart, Int16 appliedStressEnd, Int16 deflectionStart, Int16 deflectionEnd)
+   at StressDataAnalyzerTest.DataAnalyzerTest.CreateQueryandFormatResultsTest() in E:\Labfiles\Lab 14\Ex 1 - LINQ Query\Solution\StressTestAnalyzerTest\DataAnalyzerTest.cs:line 94
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

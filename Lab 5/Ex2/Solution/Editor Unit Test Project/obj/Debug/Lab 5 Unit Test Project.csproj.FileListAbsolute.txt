@@ -1,0 +1,9 @@
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 5\Ex 2 - XML Aware Editor\Solution\Editor Unit Test Project\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 5\Ex 2 - XML Aware Editor\Solution\Editor Unit Test Project\bin\Debug\Module 5 Unit Test Project.dll
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 5\Ex 2 - XML Aware Editor\Solution\Editor Unit Test Project\bin\Debug\Module 5 Unit Test Project.pdb
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 5\Ex 2 - XML Aware Editor\Solution\Editor Unit Test Project\bin\Debug\FileEditorXML.exe
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 5\Ex 2 - XML Aware Editor\Solution\Editor Unit Test Project\bin\Debug\FileEditorXML.pdb
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 5\Ex 2 - XML Aware Editor\Solution\Editor Unit Test Project\bin\Debug\FileEditorXML_Accessor.dll
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 5\Ex 2 - XML Aware Editor\Solution\Editor Unit Test Project\bin\Debug\FileEditorXML_Accessor.pdb
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 5\Ex 2 - XML Aware Editor\Solution\Editor Unit Test Project\obj\Debug\Module 5 Unit Test Project.dll
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 5\Ex 2 - XML Aware Editor\Solution\Editor Unit Test Project\obj\Debug\Module 5 Unit Test Project.pdb

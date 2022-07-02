@@ -1,0 +1,9 @@
+E:\Labfiles\Lab 4\Ex2\Starter\Matrix Unit Test Project\bin\Release\Module 4 Unit Test Project.dll
+E:\Labfiles\Lab 4\Ex2\Starter\Matrix Unit Test Project\bin\Release\Module 4 Unit Test Project.pdb
+E:\Labfiles\Lab 4\Ex2\Starter\Matrix Unit Test Project\bin\Release\MatrixMultiplication.exe
+E:\Labfiles\Lab 4\Ex2\Starter\Matrix Unit Test Project\bin\Release\MatrixMultiplication.pdb
+E:\Labfiles\Lab 4\Ex2\Starter\Matrix Unit Test Project\bin\Release\MatrixMultiplication_Accessor.exe
+E:\Labfiles\Lab 4\Ex2\Starter\Matrix Unit Test Project\bin\Release\MatrixMultiplication_Accessor.pdb
+E:\Labfiles\Lab 4\Ex2\Starter\Matrix Unit Test Project\obj\Release\Matrix Unit Test Project.csprojResolveAssemblyReference.cache
+E:\Labfiles\Lab 4\Ex2\Starter\Matrix Unit Test Project\obj\Release\Module 4 Unit Test Project.dll
+E:\Labfiles\Lab 4\Ex2\Starter\Matrix Unit Test Project\obj\Release\Module 4 Unit Test Project.pdb

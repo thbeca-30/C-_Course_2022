@@ -1,0 +1,7 @@
+E:\Labfiles\Lab 3\Ex5\Starter\Gauss Test Project\bin\Debug\Gauss Test Project.dll
+E:\Labfiles\Lab 3\Ex5\Starter\Gauss Test Project\bin\Debug\Gauss Test Project.pdb
+E:\Labfiles\Lab 3\Ex5\Starter\Gauss Test Project\bin\Debug\GaussianElimination.exe
+E:\Labfiles\Lab 3\Ex5\Starter\Gauss Test Project\bin\Debug\GaussianElimination.pdb
+E:\Labfiles\Lab 3\Ex5\Starter\Gauss Test Project\obj\Debug\ResolveAssemblyReference.cache
+E:\Labfiles\Lab 3\Ex5\Starter\Gauss Test Project\obj\Debug\Gauss Test Project.dll
+E:\Labfiles\Lab 3\Ex5\Starter\Gauss Test Project\obj\Debug\Gauss Test Project.pdb

@@ -1,0 +1,39 @@
+E:\Labfiles\Lab 14\Solution\Basic StressDataAnalyzer\StresTestAnalyzerTest\bin\Debug\StresTestAnalyzerTest.dll
+E:\Labfiles\Lab 14\Solution\Basic StressDataAnalyzer\StresTestAnalyzerTest\bin\Debug\StresTestAnalyzerTest.pdb
+E:\Labfiles\Lab 14\Solution\Basic StressDataAnalyzer\StresTestAnalyzerTest\bin\Debug\BinaryTree.dll
+E:\Labfiles\Lab 14\Solution\Basic StressDataAnalyzer\StresTestAnalyzerTest\bin\Debug\StressDataAnalyzer.exe
+E:\Labfiles\Lab 14\Solution\Basic StressDataAnalyzer\StresTestAnalyzerTest\bin\Debug\StressTestResult.dll
+E:\Labfiles\Lab 14\Solution\Basic StressDataAnalyzer\StresTestAnalyzerTest\bin\Debug\StressDataAnalyzer.pdb
+E:\Labfiles\Lab 14\Solution\Basic StressDataAnalyzer\StresTestAnalyzerTest\bin\Debug\BinaryTree.pdb
+E:\Labfiles\Lab 14\Solution\Basic StressDataAnalyzer\StresTestAnalyzerTest\bin\Debug\StressTestResult.pdb
+E:\Labfiles\Lab 14\Solution\Basic StressDataAnalyzer\StresTestAnalyzerTest\bin\Debug\StressDataAnalyzer_Accessor.dll
+E:\Labfiles\Lab 14\Solution\Basic StressDataAnalyzer\StresTestAnalyzerTest\bin\Debug\StressDataAnalyzer_Accessor.pdb
+E:\Labfiles\Lab 14\Solution\Basic StressDataAnalyzer\StresTestAnalyzerTest\obj\Debug\ResolveAssemblyReference.cache
+E:\Labfiles\Lab 14\Solution\Basic StressDataAnalyzer\StresTestAnalyzerTest\obj\Debug\StresTestAnalyzerTest.dll
+E:\Labfiles\Lab 14\Solution\Basic StressDataAnalyzer\StresTestAnalyzerTest\obj\Debug\StresTestAnalyzerTest.pdb
+E:\Labfiles\Lab 14\Solution\Basic StressDataAnalyzer\StressTestAnalyzerTest\bin\Debug\StresTestAnalyzerTest.dll
+E:\Labfiles\Lab 14\Solution\Basic StressDataAnalyzer\StressTestAnalyzerTest\bin\Debug\StresTestAnalyzerTest.pdb
+E:\Labfiles\Lab 14\Solution\Basic StressDataAnalyzer\StressTestAnalyzerTest\bin\Debug\BinaryTree.dll
+E:\Labfiles\Lab 14\Solution\Basic StressDataAnalyzer\StressTestAnalyzerTest\bin\Debug\StressDataAnalyzer.exe
+E:\Labfiles\Lab 14\Solution\Basic StressDataAnalyzer\StressTestAnalyzerTest\bin\Debug\StressTestResult.dll
+E:\Labfiles\Lab 14\Solution\Basic StressDataAnalyzer\StressTestAnalyzerTest\bin\Debug\StressDataAnalyzer.pdb
+E:\Labfiles\Lab 14\Solution\Basic StressDataAnalyzer\StressTestAnalyzerTest\bin\Debug\BinaryTree.pdb
+E:\Labfiles\Lab 14\Solution\Basic StressDataAnalyzer\StressTestAnalyzerTest\bin\Debug\StressTestResult.pdb
+E:\Labfiles\Lab 14\Solution\Basic StressDataAnalyzer\StressTestAnalyzerTest\bin\Debug\StressDataAnalyzer_Accessor.dll
+E:\Labfiles\Lab 14\Solution\Basic StressDataAnalyzer\StressTestAnalyzerTest\bin\Debug\StressDataAnalyzer_Accessor.pdb
+E:\Labfiles\Lab 14\Solution\Basic StressDataAnalyzer\StressTestAnalyzerTest\obj\Debug\ResolveAssemblyReference.cache
+E:\Labfiles\Lab 14\Solution\Basic StressDataAnalyzer\StressTestAnalyzerTest\obj\Debug\StresTestAnalyzerTest.dll
+E:\Labfiles\Lab 14\Solution\Basic StressDataAnalyzer\StressTestAnalyzerTest\obj\Debug\StresTestAnalyzerTest.pdb
+E:\Labfiles\Lab 14\Ex 1 - LINQ Query\Solution\StressTestAnalyzerTest\bin\Debug\StresTestAnalyzerTest.dll
+E:\Labfiles\Lab 14\Ex 1 - LINQ Query\Solution\StressTestAnalyzerTest\bin\Debug\BinaryTree.dll
+E:\Labfiles\Lab 14\Ex 1 - LINQ Query\Solution\StressTestAnalyzerTest\bin\Debug\StressDataAnalyzer.exe
+E:\Labfiles\Lab 14\Ex 1 - LINQ Query\Solution\StressTestAnalyzerTest\bin\Debug\StressTestResult.dll
+E:\Labfiles\Lab 14\Ex 1 - LINQ Query\Solution\StressTestAnalyzerTest\bin\Debug\StressDataAnalyzer_Accessor.dll
+E:\Labfiles\Lab 14\Ex 1 - LINQ Query\Solution\StressTestAnalyzerTest\bin\Debug\StressDataAnalyzer.pdb
+E:\Labfiles\Lab 14\Ex 1 - LINQ Query\Solution\StressTestAnalyzerTest\bin\Debug\BinaryTree.pdb
+E:\Labfiles\Lab 14\Ex 1 - LINQ Query\Solution\StressTestAnalyzerTest\bin\Debug\StressTestResult.pdb
+E:\Labfiles\Lab 14\Ex 1 - LINQ Query\Solution\StressTestAnalyzerTest\bin\Debug\StressDataAnalyzer_Accessor.pdb
+E:\Labfiles\Lab 14\Ex 1 - LINQ Query\Solution\StressTestAnalyzerTest\obj\Debug\ResolveAssemblyReference.cache
+E:\Labfiles\Lab 14\Ex 1 - LINQ Query\Solution\StressTestAnalyzerTest\obj\Debug\StresTestAnalyzerTest.dll
+E:\Labfiles\Lab 14\Ex 1 - LINQ Query\Solution\StressTestAnalyzerTest\obj\Debug\StresTestAnalyzerTest.pdb
+E:\Labfiles\Lab 14\Ex 1 - LINQ Query\Solution\StressTestAnalyzerTest\bin\Debug\StresTestAnalyzerTest.pdb

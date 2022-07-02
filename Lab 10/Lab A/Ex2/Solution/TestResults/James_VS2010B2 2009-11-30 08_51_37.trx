@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="c3e60c22-709b-4d37-940b-429cf72047dc" name="James@VS2010B2 2009-11-30 08:51:37" runUser="VS2010B2\James" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="25e65884-6616-41a6-b84d-44e838e78caf">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment runDeploymentRoot="James_VS2010B2 2009-11-30 08_51_37">
+      <DeploymentItem filename="C:\Users\James\Desktop\MSL C# Labs\Module10\Ex1\Solution\DeviceController\bin\Debug\DeviceController.dll" />
+      <DeploymentItem filename="C:\Users\James\Desktop\MSL C# Labs\Module10\Ex1\Solution\MeasuringDevice\bin\Debug\MeasuringDevice.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2009-11-30T08:51:37.8030416+00:00" queuing="2009-11-30T08:51:43.8673856+00:00" start="2009-11-30T08:51:44.2385696+00:00" finish="2009-11-30T08:51:46.3904336+00:00" />
+  <ResultSummary outcome="Inconclusive">
+    <Counters total="11" executed="11" passed="8" error="0" failed="0" timeout="0" aborted="0" inconclusive="3" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="MetricValueTest" storage="c:\users\james\desktop\msl c# labs\module10\ex1\solution\unit tests for module 10\bin\debug\unit tests for module 10.dll" id="a736f54c-2807-3dc6-a8d7-0f68771eeef1">
+      <Execution id="c7fac7a3-705b-44da-994a-57f8fae1709f" />
+      <TestMethod codeBase="C:/Users/James/Desktop/MSL C# Labs/Module10/Ex1/Solution/Unit Tests for Module 10/bin/Debug/Unit Tests for Module 10.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Unit_Tests_for_Module_10.MeasureDataDeviceTest, Unit Tests for Module 10, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="MetricValueTest" />
+    </UnitTest>
+    <UnitTest name="UnitsToUseTest" storage="c:\users\james\desktop\msl c# labs\module10\ex1\solution\unit tests for module 10\bin\debug\unit tests for module 10.dll" id="19becbb0-3127-2f17-36d2-ca3003061c40">
+      <Execution id="cf482ba7-ce7c-407a-ac84-07301816d74a" />
+      <TestMethod codeBase="C:/Users/James/Desktop/MSL C# Labs/Module10/Ex1/Solution/Unit Tests for Module 10/bin/Debug/Unit Tests for Module 10.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Unit_Tests_for_Module_10.MeasureDataDeviceTest, Unit Tests for Module 10, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="UnitsToUseTest" />
+    </UnitTest>
+    <UnitTest name="ImperialValueTest" storage="c:\users\james\desktop\msl c# labs\module10\ex1\solution\unit tests for module 10\bin\debug\unit tests for module 10.dll" id="bebb8b55-7780-7829-c200-98a125e09683">
+      <Execution id="2124d451-e87f-4d1d-80ec-cfacabfcf8e7" />
+      <TestMethod codeBase="C:/Users/James/Desktop/MSL C# Labs/Module10/Ex1/Solution/Unit Tests for Module 10/bin/Debug/Unit Tests for Module 10.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Unit_Tests_for_Module_10.MeasureDataDeviceTest, Unit Tests for Module 10, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ImperialValueTest" />
+    </UnitTest>
+    <UnitTest name="DisposeTest" storage="c:\users\james\desktop\msl c# labs\module10\ex1\solution\unit tests for module 10\bin\debug\unit tests for module 10.dll" id="b423ffff-7f7f-dbce-cba5-f3d1e6a39b43">
+      <Execution id="19872fd8-945d-488c-a1ee-0f40e7dc261d" />
+      <TestMethod codeBase="C:/Users/James/Desktop/MSL C# Labs/Module10/Ex1/Solution/Unit Tests for Module 10/bin/Debug/Unit Tests for Module 10.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Unit_Tests_for_Module_10.MeasureDataDeviceTest, Unit Tests for Module 10, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="DisposeTest" />
+    </UnitTest>
+    <UnitTest name="LoggingFileNameTest" storage="c:\users\james\desktop\msl c# labs\module10\ex1\solution\unit tests for module 10\bin\debug\unit tests for module 10.dll" id="d4c6eee0-74f7-9889-d7ce-a1addd367ac4">
+      <Execution id="d1450e22-d4c5-4ac2-88c1-11a456a19163" />
+      <TestMethod codeBase="C:/Users/James/Desktop/MSL C# Labs/Module10/Ex1/Solution/Unit Tests for Module 10/bin/Debug/Unit Tests for Module 10.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Unit_Tests_for_Module_10.MeasureDataDeviceTest, Unit Tests for Module 10, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="LoggingFileNameTest" />
+    </UnitTest>
+    <UnitTest name="DataCapturedTest" storage="c:\users\james\desktop\msl c# labs\module10\ex1\solution\unit tests for module 10\bin\debug\unit tests for module 10.dll" id="d91a316f-2dd5-e144-dc27-71ba5b75a999">
+      <Execution id="dc934ca9-0240-48bf-8c40-fd2796e95e44" />
+      <TestMethod codeBase="C:/Users/James/Desktop/MSL C# Labs/Module10/Ex1/Solution/Unit Tests for Module 10/bin/Debug/Unit Tests for Module 10.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Unit_Tests_for_Module_10.MeasureDataDeviceTest, Unit Tests for Module 10, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="DataCapturedTest" />
+    </UnitTest>
+    <UnitTest name="MostRecentMeasureTest" storage="c:\users\james\desktop\msl c# labs\module10\ex1\solution\unit tests for module 10\bin\debug\unit tests for module 10.dll" id="a0f48113-ea8d-0f25-e6c6-a6e0040d0df4">
+      <Execution id="6844bcff-93ee-414f-acdf-9f63c5bc5d7c" />
+      <TestMethod codeBase="C:/Users/James/Desktop/MSL C# Labs/Module10/Ex1/Solution/Unit Tests for Module 10/bin/Debug/Unit Tests for Module 10.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Unit_Tests_for_Module_10.MeasureDataDeviceTest, Unit Tests for Module 10, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="MostRecentMeasureTest" />
+    </UnitTest>
+    <UnitTest name="GetLoggingFileTest" storage="c:\users\james\desktop\msl c# labs\module10\ex1\solution\unit tests for module 10\bin\debug\unit tests for module 10.dll" id="2980af81-96e4-533b-ebc5-b6d5a7fc3222">
+      <Execution id="a5146890-3016-4db5-b87c-635967f9b5bc" />
+      <TestMethod codeBase="C:/Users/James/Desktop/MSL C# Labs/Module10/Ex1/Solution/Unit Tests for Module 10/bin/Debug/Unit Tests for Module 10.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Unit_Tests_for_Module_10.MeasureDataDeviceTest, Unit Tests for Module 10, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="GetLoggingFileTest" />
+    </UnitTest>
+    <UnitTest name="GetRawDataTest" storage="c:\users\james\desktop\msl c# labs\module10\ex1\solution\unit tests for module 10\bin\debug\unit tests for module 10.dll" id="17940cb9-69d7-6018-ba6b-bafcb7d040f3">
+      <Execution id="75f4f6cf-3e98-4c7b-9c19-7a47898e787e" />
+      <TestMethod codeBase="C:/Users/James/Desktop/MSL C# Labs/Module10/Ex1/Solution/Unit Tests for Module 10/bin/Debug/Unit Tests for Module 10.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Unit_Tests_for_Module_10.MeasureDataDeviceTest, Unit Tests for Module 10, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="GetRawDataTest" />
+    </UnitTest>
+    <UnitTest name="StartCollectingTest" storage="c:\users\james\desktop\msl c# labs\module10\ex1\solution\unit tests for module 10\bin\debug\unit tests for module 10.dll" id="7897eb97-f366-ad81-0da0-415b06269d6f">
+      <Execution id="65c25a96-4428-4fce-9d3f-aec81990fd10" />
+      <TestMethod codeBase="C:/Users/James/Desktop/MSL C# Labs/Module10/Ex1/Solution/Unit Tests for Module 10/bin/Debug/Unit Tests for Module 10.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Unit_Tests_for_Module_10.MeasureDataDeviceTest, Unit Tests for Module 10, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="StartCollectingTest" />
+    </UnitTest>
+    <UnitTest name="StopCollectingTest" storage="c:\users\james\desktop\msl c# labs\module10\ex1\solution\unit tests for module 10\bin\debug\unit tests for module 10.dll" id="98e2daa4-f8c3-d0e7-fea5-3c60f3499e3b">
+      <Execution id="0f597b86-23ca-4e0d-a078-ae7efe7d37da" />
+      <TestMethod codeBase="C:/Users/James/Desktop/MSL C# Labs/Module10/Ex1/Solution/Unit Tests for Module 10/bin/Debug/Unit Tests for Module 10.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Unit_Tests_for_Module_10.MeasureDataDeviceTest, Unit Tests for Module 10, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="StopCollectingTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="17940cb9-69d7-6018-ba6b-bafcb7d040f3" executionId="75f4f6cf-3e98-4c7b-9c19-7a47898e787e" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="19becbb0-3127-2f17-36d2-ca3003061c40" executionId="cf482ba7-ce7c-407a-ac84-07301816d74a" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="2980af81-96e4-533b-ebc5-b6d5a7fc3222" executionId="a5146890-3016-4db5-b87c-635967f9b5bc" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="7897eb97-f366-ad81-0da0-415b06269d6f" executionId="65c25a96-4428-4fce-9d3f-aec81990fd10" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="98e2daa4-f8c3-d0e7-fea5-3c60f3499e3b" executionId="0f597b86-23ca-4e0d-a078-ae7efe7d37da" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="a0f48113-ea8d-0f25-e6c6-a6e0040d0df4" executionId="6844bcff-93ee-414f-acdf-9f63c5bc5d7c" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="a736f54c-2807-3dc6-a8d7-0f68771eeef1" executionId="c7fac7a3-705b-44da-994a-57f8fae1709f" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="b423ffff-7f7f-dbce-cba5-f3d1e6a39b43" executionId="19872fd8-945d-488c-a1ee-0f40e7dc261d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="bebb8b55-7780-7829-c200-98a125e09683" executionId="2124d451-e87f-4d1d-80ec-cfacabfcf8e7" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="d4c6eee0-74f7-9889-d7ce-a1addd367ac4" executionId="d1450e22-d4c5-4ac2-88c1-11a456a19163" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="d91a316f-2dd5-e144-dc27-71ba5b75a999" executionId="dc934ca9-0240-48bf-8c40-fd2796e95e44" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="75f4f6cf-3e98-4c7b-9c19-7a47898e787e" testId="17940cb9-69d7-6018-ba6b-bafcb7d040f3" testName="GetRawDataTest" computerName="VS2010B2" duration="00:00:00.0444732" startTime="2009-11-30T08:51:44.4552608+00:00" endTime="2009-11-30T08:51:45.8095808+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="75f4f6cf-3e98-4c7b-9c19-7a47898e787e">
+    </UnitTestResult>
+    <UnitTestResult executionId="cf482ba7-ce7c-407a-ac84-07301816d74a" testId="19becbb0-3127-2f17-36d2-ca3003061c40" testName="UnitsToUseTest" computerName="VS2010B2" duration="00:00:00.0017083" startTime="2009-11-30T08:51:45.8446928+00:00" endTime="2009-11-30T08:51:45.8767952+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="cf482ba7-ce7c-407a-ac84-07301816d74a">
+    </UnitTestResult>
+    <UnitTestResult executionId="a5146890-3016-4db5-b87c-635967f9b5bc" testId="2980af81-96e4-533b-ebc5-b6d5a7fc3222" testName="GetLoggingFileTest" computerName="VS2010B2" duration="00:00:00.0006634" startTime="2009-11-30T08:51:45.8888336+00:00" endTime="2009-11-30T08:51:45.9018752+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="a5146890-3016-4db5-b87c-635967f9b5bc">
+    </UnitTestResult>
+    <UnitTestResult executionId="65c25a96-4428-4fce-9d3f-aec81990fd10" testId="7897eb97-f366-ad81-0da0-415b06269d6f" testName="StartCollectingTest" computerName="VS2010B2" duration="00:00:00.0372843" startTime="2009-11-30T08:51:45.9149168+00:00" endTime="2009-11-30T08:51:45.9690896+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Inconclusive" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="65c25a96-4428-4fce-9d3f-aec81990fd10">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.Inconclusive failed. A method that does not return a value cannot be verified.</Message>
+          <StackTrace>   at Unit_Tests_for_Module_10.MeasureDataDeviceTest.StartCollectingTest() in C:\Users\James\Desktop\MSL C# Labs\Module10\Ex1\Solution\Unit Tests for Module 10\MeasureDataDeviceTest.cs:line 151
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="0f597b86-23ca-4e0d-a078-ae7efe7d37da" testId="98e2daa4-f8c3-d0e7-fea5-3c60f3499e3b" testName="StopCollectingTest" computerName="VS2010B2" duration="00:00:00.0094498" startTime="2009-11-30T08:51:45.9821312+00:00" endTime="2009-11-30T08:51:46.0152368+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Inconclusive" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="0f597b86-23ca-4e0d-a078-ae7efe7d37da">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.Inconclusive failed. A method that does not return a value cannot be verified.</Message>
+          <StackTrace>   at Unit_Tests_for_Module_10.MeasureDataDeviceTest.StopCollectingTest() in C:\Users\James\Desktop\MSL C# Labs\Module10\Ex1\Solution\Unit Tests for Module 10\MeasureDataDeviceTest.cs:line 164
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="6844bcff-93ee-414f-acdf-9f63c5bc5d7c" testId="a0f48113-ea8d-0f25-e6c6-a6e0040d0df4" testName="MostRecentMeasureTest" computerName="VS2010B2" duration="00:00:00.0109346" startTime="2009-11-30T08:51:46.0302848+00:00" endTime="2009-11-30T08:51:46.0603808+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="6844bcff-93ee-414f-acdf-9f63c5bc5d7c">
+    </UnitTestResult>
+    <UnitTestResult executionId="c7fac7a3-705b-44da-994a-57f8fae1709f" testId="a736f54c-2807-3dc6-a8d7-0f68771eeef1" testName="MetricValueTest" computerName="VS2010B2" duration="00:00:00.0091598" startTime="2009-11-30T08:51:46.0744256+00:00" endTime="2009-11-30T08:51:46.1065280+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="c7fac7a3-705b-44da-994a-57f8fae1709f">
+    </UnitTestResult>
+    <UnitTestResult executionId="19872fd8-945d-488c-a1ee-0f40e7dc261d" testId="b423ffff-7f7f-dbce-cba5-f3d1e6a39b43" testName="DisposeTest" computerName="VS2010B2" duration="00:00:00.0021044" startTime="2009-11-30T08:51:46.1215760+00:00" endTime="2009-11-30T08:51:46.1446496+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Inconclusive" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="19872fd8-945d-488c-a1ee-0f40e7dc261d">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.Inconclusive failed. A method that does not return a value cannot be verified.</Message>
+          <StackTrace>   at Unit_Tests_for_Module_10.MeasureDataDeviceTest.DisposeTest() in C:\Users\James\Desktop\MSL C# Labs\Module10\Ex1\Solution\Unit Tests for Module 10\MeasureDataDeviceTest.cs:line 79
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="2124d451-e87f-4d1d-80ec-cfacabfcf8e7" testId="bebb8b55-7780-7829-c200-98a125e09683" testName="ImperialValueTest" computerName="VS2010B2" duration="00:00:00.0061605" startTime="2009-11-30T08:51:46.1586944+00:00" endTime="2009-11-30T08:51:46.1847776+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="2124d451-e87f-4d1d-80ec-cfacabfcf8e7">
+    </UnitTestResult>
+    <UnitTestResult executionId="d1450e22-d4c5-4ac2-88c1-11a456a19163" testId="d4c6eee0-74f7-9889-d7ce-a1addd367ac4" testName="LoggingFileNameTest" computerName="VS2010B2" duration="00:00:00.0019703" startTime="2009-11-30T08:51:46.2008288+00:00" endTime="2009-11-30T08:51:46.2249056+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="d1450e22-d4c5-4ac2-88c1-11a456a19163">
+    </UnitTestResult>
+    <UnitTestResult executionId="dc934ca9-0240-48bf-8c40-fd2796e95e44" testId="d91a316f-2dd5-e144-dc27-71ba5b75a999" testName="DataCapturedTest" computerName="VS2010B2" duration="00:00:00.0110810" startTime="2009-11-30T08:51:46.2379472+00:00" endTime="2009-11-30T08:51:46.2690464+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="dc934ca9-0240-48bf-8c40-fd2796e95e44">
+    </UnitTestResult>
+  </Results>
+</TestRun>

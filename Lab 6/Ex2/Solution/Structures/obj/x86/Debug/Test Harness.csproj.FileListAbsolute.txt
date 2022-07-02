@@ -1,0 +1,17 @@
+E:\Labfiles\Lab 6\Ex 2\Solution\Structures\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Labfiles\Lab 6\Ex 2\Solution\Structures\obj\x86\Debug\MainWindow.baml
+E:\Labfiles\Lab 6\Ex 2\Solution\Structures\obj\x86\Debug\MainWindow.g.cs
+E:\Labfiles\Lab 6\Ex 2\Solution\Structures\obj\x86\Debug\App.g.cs
+E:\Labfiles\Lab 6\Ex 2\Solution\Structures\obj\x86\Debug\Structures_MarkupCompile.cache
+E:\Labfiles\Lab 6\Ex 2\Solution\Structures\obj\x86\Debug\Structures.g.resources
+E:\Labfiles\Lab 6\Ex 2\Solution\Structures\obj\x86\Debug\Structures.Properties.Resources.resources
+E:\Labfiles\Lab 6\Ex 2\Solution\Structures\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Labfiles\Lab 6\Ex 2\Solution\Structures\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Labfiles\Lab 6\Ex 2\Solution\Structures\bin\Debug\Structures.exe
+E:\Labfiles\Lab 6\Ex 2\Solution\Structures\bin\Debug\Structures.pdb
+E:\Labfiles\Lab 6\Ex 2\Solution\Structures\bin\Debug\StressTest.dll
+E:\Labfiles\Lab 6\Ex 2\Solution\Structures\bin\Debug\StressTest.pdb
+E:\Labfiles\Lab 6\Ex 2\Solution\Structures\obj\x86\Debug\Structures.exe
+E:\Labfiles\Lab 6\Ex 2\Solution\Structures\obj\x86\Debug\Structures.pdb
+E:\Labfiles\Lab 6\Ex2\Solution\Structures\obj\x86\Debug\Structures.exe
+E:\Labfiles\Lab 6\Ex2\Solution\Structures\obj\x86\Debug\Structures.pdb

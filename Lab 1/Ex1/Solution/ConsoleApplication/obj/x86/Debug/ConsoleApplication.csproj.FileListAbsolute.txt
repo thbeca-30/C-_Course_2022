@@ -1,0 +1,12 @@
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module1\ConsoleApplication\bin\Debug\DataFile.txt
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module1\ConsoleApplication\bin\Debug\ConsoleApplication.exe
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module1\ConsoleApplication\bin\Debug\ConsoleApplication.pdb
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module1\ConsoleApplication\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module1\ConsoleApplication\obj\x86\Debug\ConsoleApplication.exe
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module1\ConsoleApplication\obj\x86\Debug\ConsoleApplication.pdb
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 1\Solution\ConsoleApplication\obj\x86\Debug\ConsoleApplication.exe
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 1\Solution\ConsoleApplication\obj\x86\Debug\ConsoleApplication.pdb
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 1\Solution\ConsoleApp\ConsoleApplication\obj\x86\Debug\ConsoleApplication.exe
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 1\Solution\ConsoleApp\ConsoleApplication\obj\x86\Debug\ConsoleApplication.pdb
+E:\Labfiles\Lab 1\Ex1\Solution\ConsoleApplication\obj\x86\Debug\ConsoleApplication.exe
+E:\Labfiles\Lab 1\Ex1\Solution\ConsoleApplication\obj\x86\Debug\ConsoleApplication.pdb

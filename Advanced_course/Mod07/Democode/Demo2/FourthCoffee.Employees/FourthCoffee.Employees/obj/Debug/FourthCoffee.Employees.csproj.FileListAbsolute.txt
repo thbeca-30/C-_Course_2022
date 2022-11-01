@@ -1,0 +1,12 @@
+C:\Users\admin\Downloads\20483\Allfiles\Mod07\Democode\Demo2\FourthCoffee.Employees\FourthCoffee.Employees\bin\Debug\FourthCoffee.Employees.exe.config
+C:\Users\admin\Downloads\20483\Allfiles\Mod07\Democode\Demo2\FourthCoffee.Employees\FourthCoffee.Employees\bin\Debug\FourthCoffee.Employees.exe
+C:\Users\admin\Downloads\20483\Allfiles\Mod07\Democode\Demo2\FourthCoffee.Employees\FourthCoffee.Employees\bin\Debug\FourthCoffee.Employees.pdb
+C:\Users\admin\Downloads\20483\Allfiles\Mod07\Democode\Demo2\FourthCoffee.Employees\FourthCoffee.Employees\bin\Debug\EntityFramework.dll
+C:\Users\admin\Downloads\20483\Allfiles\Mod07\Democode\Demo2\FourthCoffee.Employees\FourthCoffee.Employees\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\Downloads\20483\Allfiles\Mod07\Democode\Demo2\FourthCoffee.Employees\FourthCoffee.Employees\bin\Debug\EntityFramework.xml
+C:\Users\admin\Downloads\20483\Allfiles\Mod07\Democode\Demo2\FourthCoffee.Employees\FourthCoffee.Employees\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\Downloads\20483\Allfiles\Mod07\Democode\Demo2\FourthCoffee.Employees\FourthCoffee.Employees\obj\Debug\FourthCoffee.Employees.csprojAssemblyReference.cache
+C:\Users\admin\Downloads\20483\Allfiles\Mod07\Democode\Demo2\FourthCoffee.Employees\FourthCoffee.Employees\obj\Debug\FourthCoffee.Employees.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\20483\Allfiles\Mod07\Democode\Demo2\FourthCoffee.Employees\FourthCoffee.Employees\obj\Debug\FourthCoffee.Employees.csproj.CopyComplete
+C:\Users\admin\Downloads\20483\Allfiles\Mod07\Democode\Demo2\FourthCoffee.Employees\FourthCoffee.Employees\obj\Debug\FourthCoffee.Employees.exe
+C:\Users\admin\Downloads\20483\Allfiles\Mod07\Democode\Demo2\FourthCoffee.Employees\FourthCoffee.Employees\obj\Debug\FourthCoffee.Employees.pdb

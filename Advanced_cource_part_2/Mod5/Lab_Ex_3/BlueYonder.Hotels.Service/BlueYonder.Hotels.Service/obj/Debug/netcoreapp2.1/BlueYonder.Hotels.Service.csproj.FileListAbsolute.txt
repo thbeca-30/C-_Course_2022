@@ -1,0 +1,15 @@
+C:\Allfiles\Mod05\Labfiles\Exercise3\Starter\BlueYonder.Hotels.Service\BlueYonder.Hotels.Service\bin\Debug\netcoreapp2.1\BlueYonder.Hotels.Service.deps.json
+C:\Allfiles\Mod05\Labfiles\Exercise3\Starter\BlueYonder.Hotels.Service\BlueYonder.Hotels.Service\bin\Debug\netcoreapp2.1\BlueYonder.Hotels.Service.runtimeconfig.json
+C:\Allfiles\Mod05\Labfiles\Exercise3\Starter\BlueYonder.Hotels.Service\BlueYonder.Hotels.Service\bin\Debug\netcoreapp2.1\BlueYonder.Hotels.Service.runtimeconfig.dev.json
+C:\Allfiles\Mod05\Labfiles\Exercise3\Starter\BlueYonder.Hotels.Service\BlueYonder.Hotels.Service\bin\Debug\netcoreapp2.1\BlueYonder.Hotels.Service.dll
+C:\Allfiles\Mod05\Labfiles\Exercise3\Starter\BlueYonder.Hotels.Service\BlueYonder.Hotels.Service\obj\Debug\netcoreapp2.1\BlueYonder.Hotels.Service.csprojAssemblyReference.cache
+C:\Allfiles\Mod05\Labfiles\Exercise3\Starter\BlueYonder.Hotels.Service\BlueYonder.Hotels.Service\obj\Debug\netcoreapp2.1\BlueYonder.Hotels.Service.csproj.CoreCompileInputs.cache
+C:\Allfiles\Mod05\Labfiles\Exercise3\Starter\BlueYonder.Hotels.Service\BlueYonder.Hotels.Service\obj\Debug\netcoreapp2.1\BlueYonder.Hotels.Service.RazorAssemblyInfo.cache
+C:\Allfiles\Mod05\Labfiles\Exercise3\Starter\BlueYonder.Hotels.Service\BlueYonder.Hotels.Service\obj\Debug\netcoreapp2.1\BlueYonder.Hotels.Service.RazorAssemblyInfo.cs
+C:\Allfiles\Mod05\Labfiles\Exercise3\Starter\BlueYonder.Hotels.Service\BlueYonder.Hotels.Service\obj\Debug\netcoreapp2.1\BlueYonder.Hotels.Service.AssemblyInfoInputs.cache
+C:\Allfiles\Mod05\Labfiles\Exercise3\Starter\BlueYonder.Hotels.Service\BlueYonder.Hotels.Service\obj\Debug\netcoreapp2.1\BlueYonder.Hotels.Service.AssemblyInfo.cs
+C:\Allfiles\Mod05\Labfiles\Exercise3\Starter\BlueYonder.Hotels.Service\BlueYonder.Hotels.Service\obj\Debug\netcoreapp2.1\BlueYonder.Hotels.Service.RazorTargetAssemblyInfo.cache
+C:\Allfiles\Mod05\Labfiles\Exercise3\Starter\BlueYonder.Hotels.Service\BlueYonder.Hotels.Service\bin\Debug\netcoreapp2.1\BlueYonder.Hotels.Service.pdb
+C:\Allfiles\Mod05\Labfiles\Exercise3\Starter\BlueYonder.Hotels.Service\BlueYonder.Hotels.Service\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Allfiles\Mod05\Labfiles\Exercise3\Starter\BlueYonder.Hotels.Service\BlueYonder.Hotels.Service\obj\Debug\netcoreapp2.1\BlueYonder.Hotels.Service.dll
+C:\Allfiles\Mod05\Labfiles\Exercise3\Starter\BlueYonder.Hotels.Service\BlueYonder.Hotels.Service\obj\Debug\netcoreapp2.1\BlueYonder.Hotels.Service.pdb
